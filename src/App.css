@@ -1,0 +1,19 @@
+.navbar {
+  padding: 20px;
+  background-color: rgb(227, 76, 38, 0.2);
+}
+.search {
+  display: flex;
+  justify-content: center;
+  padding: 40px 0;
+  margin-left: 80px;
+}
+.card {
+  display: flex;
+  justify-content: center;
+  padding: 40px 0;
+  margin-left: 80px;
+}
+.cardGroup {
+  display: flexbox;
+}
